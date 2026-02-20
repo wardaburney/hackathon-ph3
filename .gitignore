@@ -1,0 +1,27 @@
+# Dependency folders (Ye GitHub par nahi janay chahiye)
+node_modules/
+_pycache_/
+.venv/
+venv/
+env/
+
+# Environment variables (Aapki Gemini API Key isi mein hoti hai)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Database files
+*.db
+*.sqlite3
+
+# Build folders
+.next/
+out/
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
